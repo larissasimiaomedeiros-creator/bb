@@ -8,4 +8,5 @@ body{
 .cabecalho{
     background-color: #a780cf;
     display: flex;
+    justify-content: space-between;
 }
