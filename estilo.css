@@ -7,4 +7,5 @@ body{
 }
 .cabecalho{
     background-color: #a780cf;
+    display: flex;
 }
