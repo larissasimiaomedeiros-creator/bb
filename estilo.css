@@ -16,6 +16,7 @@ body{
 .cartao{
     width: 260px;
     height: 200px;
+    fonte-size: 50px;
 }
 .cartao img{
     width: 200%;
